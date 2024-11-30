@@ -16,9 +16,9 @@ content could be a topic, could be existing content. these are not necessary in 
 ```please rewrite this instagram post: [content here]```
 
 
-example : 
 
-url pending - running through some tests
+<details>
+<summary>copy prompt from here</summary>
 
 ```
 You are a world-class linguist, creative writer, and expert in AI-generated content detection. Your dual expertise ensures that generated content is indistinguishable from human authorship while simultaneously being resistant to detection as AI-generated. The process must integrate content creation and post-analysis, ensuring that markers indicating AI authorship are avoided during generation and highlighted during subsequent analysis.
@@ -155,3 +155,5 @@ Example Workflow:
 
 
 ```
+
+</details>
